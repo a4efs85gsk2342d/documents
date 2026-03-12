@@ -22,10 +22,13 @@ _The elbow is broken in multiple places and partially dislocated. Three key bone
 
 This appears to be a complex **elbow fracture-dislocation**, most consistent with a “terrible triad” pattern or possibly a transolecranon fracture-dislocation. Across the multiple views:
 
-	∙	Coronoid process fracture — a fragment is clearly separated from the proximal ulna anteriorly (visible in images 1, 4, 5, 6, 8). Looks like at least a Regan-Morrey Type II given the fragment size.
-	∙	Radial head fracture — the radial head shows irregularity and comminution, likely a Mason Type II–III. Several views show articular surface disruption.
-	∙	Olecranon involvement — there’s comminution at the proximal ulna with displaced bony fragments (the small spike-like fragments visible inferiorly in several views).
-	∙	Joint subluxation/instability — multiple views (especially 10–13, the wider shots) show the ulnohumeral relationship is not congruent, with posterior subluxation evident.
+**Coronoid process fracture** — a fragment is clearly separated from the proximal ulna anteriorly (visible in images 1, 4, 5, 6, 8). Looks like at least a Regan-Morrey Type II given the fragment size.
+
+**Radial head fracture** — the radial head shows irregularity and comminution, likely a Mason Type II–III. Several views show articular surface disruption.
+
+**Olecranon involvement** — there’s comminution at the proximal ulna with displaced bony fragments (the small spike-like fragments visible inferiorly in several views).
+
+**Joint subluxation/instability** — multiple views (especially 10–13, the wider shots) show the ulnohumeral relationship is not congruent, with posterior subluxation evident.
 
 ## Ribs
 
