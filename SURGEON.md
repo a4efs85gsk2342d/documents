@@ -1,6 +1,8 @@
 # Dr. Fukuhara Tomomi (普久原 朝海)
 
-The surgeon identified as "Fukuhara T." on the Niigata University orthopedic trauma team is **普久原 朝海 (Fukuhara Tomomi)**, an Assistant Professor at the Advanced Disaster Medical and Emergency Critical Care Center of Niigata University Medical and Dental Hospital. A critical finding: his surname is written **普久原**, an Okinawan-origin name romanized as "Fukuhara" — not the more common **福原**. This explains why standard Japanese-character searches for 福原 may fail to locate him. He is one of Japan's foremost pelvic fracture surgeons, co-editor of the country's first comprehensive surgical textbook on pelvic fractures, and has been at Niigata University since May 2011.
+The surgeon identified as "Fukuhara T." on the Niigata University orthopedic trauma team is **普久原 朝海 (Fukuhara Tomomi)**, an Assistant Professor at the Advanced Disaster Medical and Emergency Critical Care Center of Niigata University Medical and Dental Hospital.
+
+He is one of Japan's foremost pelvic fracture surgeons, co-editor of the country's first comprehensive surgical textbook on pelvic fractures, and has been at Niigata University since May 2011.
 
 ---
 
