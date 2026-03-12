@@ -2,6 +2,7 @@
 
 **Address**
 Niigata Prefectural Central Hospital
+
 205 Shinnancho, Joetsu, Niigata 943-0192
 
 **Directions**
