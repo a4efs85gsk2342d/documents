@@ -1,4 +1,4 @@
-# Dr. Fukuhara Tomomi (普久原 朝海)
+# Dr. Fukuhara Tomomi
 
 The surgeon identified as "Fukuhara T." on the Niigata University orthopedic trauma team is **普久原 朝海 (Fukuhara Tomomi)**, an Assistant Professor at the Advanced Disaster Medical and Emergency Critical Care Center of Niigata University Medical and Dental Hospital.
 
