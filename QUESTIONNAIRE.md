@@ -1,21 +1,30 @@
 ## 1. History of Injury / Mechanism
 
 - Was he wearing a helmet?
-  -
+
+Yes.
+  
 - What did he land on? (rock, hard ice, snow, trees?)
-  -
+
 - Was there loss of consciousness?
-  -
+
+No.
+
 - How long was he in the crevice before retrieval?
-  -
+
 - Was there hypothermia?
-  -
+
+Yes.
+
 - How was he retrieved? (helicopter / hand retrieval?)
   -
+  
 - Was a cervical collar / neck brace applied at the scene?
   -
+
 - Was a pelvic binder applied at the scene?
   -
+
 - Was he immobilised on a stretcher / spinal board for extraction?
 
 ---
@@ -24,8 +33,10 @@
 
 - Any pre-existing medical conditions? (presumed nil)
   -
+
 - Any prior regular medications (pre-injury)?
   -
+
 - Any known allergies?
   -
 
@@ -96,13 +107,16 @@
 ### Limbs
 
 - Left elbow injury — closed or open fracture?
-  -
+
 - If open fracture — have IV antibiotics (cephazolin/ceftriaxone) and tetanus been given?
   -
+
 - Left wrist injury — closed or open?
   -
+
 - Any lower limb injuries?
   -
+
 - Were any limb splints / immobilisers applied?
   -
 
