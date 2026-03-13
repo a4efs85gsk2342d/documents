@@ -1,31 +1,31 @@
 ## 1. History of Injury / Mechanism
 
-- Was he wearing a helmet?
+### Was he wearing a helmet?
 
 Yes.
   
-- What did he land on? (rock, hard ice, snow, trees?)
+### What did he land on? (rock, hard ice, snow, trees?)
 
-- Was there loss of consciousness?
+### Was there loss of consciousness?
 
 No.
 
-- How long was he in the crevice before retrieval?
+### How long was he in the crevice before retrieval?
 
-- Was there hypothermia?
+### Was there hypothermia?
 
 Yes.
 
-- How was he retrieved? (helicopter / hand retrieval?)
+### How was he retrieved? (helicopter / hand retrieval?)
   -
   
-- Was a cervical collar / neck brace applied at the scene?
+### Was a cervical collar / neck brace applied at the scene?
   -
 
-- Was a pelvic binder applied at the scene?
+### Was a pelvic binder applied at the scene?
   -
 
-- Was he immobilised on a stretcher / spinal board for extraction?
+### Was he immobilised on a stretcher / spinal board for extraction?
 
 ---
 
