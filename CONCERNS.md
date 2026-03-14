@@ -12,7 +12,7 @@
 - ≥8m fall is a high-energy mechanism — CT head should be standard in a polytrauma survey, especially with unknown consciousness status at the scene.
 - Calcaneal fractures, splenic injuries and diaphragmatic injuries are commonly associated with these injuries.
 - **Ask:** Was CT head performed and just not uploaded? If not done — why not? Was GCS 15 throughout with no LOC?
-- **Ask:** Can a full-body CT scan be conducted?
+- **Ask:** Can a full-body CT scan be conducted to address additional potential injuries?
 
 ### 3. C-spine not formally cleared
 
