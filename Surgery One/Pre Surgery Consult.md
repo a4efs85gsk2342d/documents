@@ -4,7 +4,7 @@
 
 - **Pelvic Doctor** — Lead orthopedic surgeon at the prefectural hospital
 - **Spine Doctor** — Spine specialist at the same hospital
-- **Translator** — On-site interpreter/coordinator (includes secondary interpreter)
+- **Translator** — Off-site interpreters
 - **Patient** — The patient
 - **Family** — Patient's wife, brother, and other remote family members
 
