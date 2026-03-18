@@ -1,6 +1,4 @@
-# Blood Test Results — Michael Franciscus
-
-**Sex:** Male | **Requesting Dept:** Emergency Medicine | **Date:** 2026/03/09
+**Date:** 2026/03/09
 
 ---
 
