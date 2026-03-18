@@ -1,5 +1,3 @@
-# Surgical Consultation Transcript — Pre-Operative Meeting
-
 ## Speakers
 
 - **Pelvic Doctor** — Lead orthopedic surgeon at the prefectural hospital
