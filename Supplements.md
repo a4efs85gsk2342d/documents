@@ -137,9 +137,21 @@
 
 ---
 
+## 9. Force Factor — L-Carnitine (1,000 mg, 90 Tablets)
+
+**Serving Size:** 1 Tablet
+
+| Ingredient | Form | Amount |
+|---|---|---|
+| L-Carnitine | L-Carnitine L-Tartrate | 1,000 mg |
+
+**Other Ingredients:** Hydroxypropyl Cellulose, Hydroxypropylmethyl Cellulose, Stearic Acid, Silicon Dioxide, Vegetable Magnesium Stearate, Shellac Glaze, Di-acetylated Monoglyceride
+
+---
+
 # Daily Ingredient Totals (Assuming 1 Serving Each)
 
-*Note: Doctor's Best serving = 3 capsules (half the daily dose of 6). Listed below at the 3-cap single serving. Multivitamin = 2 capsules. PEA = 2 capsules. All others = 1 capsule/softgel.*
+*Note: Doctor's Best serving = 3 capsules (half the daily dose of 6). Listed below at the 3-cap single serving. Multivitamin = 2 capsules. PEA = 2 capsules. L-Carnitine = 1 tablet. All others = 1 capsule/softgel.*
 
 | Ingredient | Total Daily Amount | Sources |
 |---|---|---|
@@ -173,6 +185,7 @@
 | **Amino Acids / Fatty Acids / Other Actives** | | |
 | Alpha Lipoic Acid | 625 mg | ALA (600 mg) + Multivitamin (25 mg) |
 | N-Acetyl-L-Cysteine (NAC) | 600 mg | NAC supplement |
+| L-Carnitine (as L-Tartrate) | 1,000 mg | Force Factor |
 | EPA (Omega-3) | 480 mg | Omega 800 |
 | DHA (Omega-3) | 320 mg | Omega 800 |
 | Palmitoylethanolamide (PEA) | 600 mg | PEA supplement |
